@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/HannaVakulenko/ComandProject_demo.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Hanna Vakulenko <anna.vakulenko.ua@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://https://github.com/HannaVakulenko/ComandProject_demo/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
